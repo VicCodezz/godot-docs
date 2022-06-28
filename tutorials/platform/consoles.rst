@@ -68,6 +68,9 @@ Following is the list of providers:
 - `Pineapple Works <https://pineapple.works/>`_ offers
   Switch, Xbox One and Xbox Series X/S porting and publishing of Godot games.
 
+- `Gotm <https://gotm.io/about/gpp>`_ offers
+  Switch porting and publishing of Godot games.
+
 If your company offers porting and/or publishing services for Godot games,
 feel free to
 `open an issue or pull request <https://github.com/godotengine/godot-docs>`_
